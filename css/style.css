@@ -620,6 +620,10 @@ display: -webkit-box;
   background-color: #e69c00;
 }
 
+#quantityInput, #cash {
+  width: 5vw;
+}
+
 .about_section {
   background: #222831;
   color: #ffffff;
